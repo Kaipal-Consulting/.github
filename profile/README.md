@@ -1,1 +1,8 @@
-<H1>Bienvenidos a Kaipal</H1>
+<div align="center">
+<h1 style=>Bienvenidos a Kaipal</h1>
+
+<img src="images/logo.png" />
+
+
+
+</div>

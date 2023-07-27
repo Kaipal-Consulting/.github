@@ -33,14 +33,14 @@
 </div>
 
 <div display="flex">
-  <img src="images/sally.png" height=60px width=60px />
+  <img src="images/kaira" height=60px width=60px />
   <p align="left" font-size=18px>
   Kaira: Chat de educativo, para refuerzo de clases y conocimientos
 </p>
 </div>
 
 <div display="flex">
-  <img src="images/sally.png" height=60px width=60px />
+  <img src="images/luna" height=60px width=60px />
   <p align="left" font-size=18px>
   Luna: Chat infantil, para evaluar situaciones de bullying o acoso en niños
 </p>

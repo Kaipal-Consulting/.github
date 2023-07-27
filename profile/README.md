@@ -3,7 +3,7 @@
 
 <img src="images/logo.png" height=140px width=440px />
 
-<h2 font-size=20px> Quienes somos &#128075;</h2>
+<h2 font-size=20px> Quiénes somos &#128075;</h2>
 </div>
 
 <div align="left">

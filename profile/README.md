@@ -25,22 +25,22 @@
   Actualmente contamos con 3 soluciones en desarrollo: Sally, Kaira y luna P:
 </p>
 
-<div display="flex">
-  <img src="images/sally.png" height=60px width=60px />
+<div display="flex" flex-direction="row">
+  <img src="images/sally.png" height=40px width=40px />
   <p align="left" font-size=18px>
   Sally: Chat de evaluación de satisfaccion laboral
 </p>
 </div>
 
-<div display="flex">
-  <img src="images/kaira" height=60px width=60px />
+<div display="flex" flex-direction="row">
+  <img src="images/kaira.png" height=40px width=40px />
   <p align="left" font-size=18px>
   Kaira: Chat de educativo, para refuerzo de clases y conocimientos
 </p>
 </div>
 
-<div display="flex">
-  <img src="images/luna" height=60px width=60px />
+<div display="flex" flex-direction="row">
+  <img src="images/luna.png" height=40px width=40px />
   <p align="left" font-size=18px>
   Luna: Chat infantil, para evaluar situaciones de bullying o acoso en niños
 </p>

@@ -22,7 +22,7 @@
 <h2 align="center" font-size=20px> Nuestras soluciones</h2>
 
 <p align="left" font-size=16px>
-  Actualmente contamos con 3 soluciones en desarrollo: Sally, Kaira y luna P:
+  Actualmente contamos con 3 soluciones en desarrollo: Sally, Kaira y luna <br> Para más información contactarnos a info@kaipal.com:
 </p>
 
 <div display="flex" flex-direction="row">

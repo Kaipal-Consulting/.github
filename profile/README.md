@@ -1,7 +1,7 @@
 <div align="center">
 <h1 font-size=22px>Bienvenidos a Kaipal</h1>
 
-<img src="images/logo.png" height=140px width=440px />
+<img src="images/logo0_sinFondo9.png" height=220px width=auto />
 
 <h2 font-size=20px> Quiénes somos &#128075;</h2>
 </div>
